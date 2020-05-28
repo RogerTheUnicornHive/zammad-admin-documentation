@@ -116,7 +116,7 @@ A wizard will appear and leads you through the following steps.
       This setting is by default set to ``no``. This causes Zammad to *delete* all mails it fetched from mailbox! 
       If you don't want this, switch to ``yes``.
 
-      .. hint:: *How Zammad behaves if you set "Keep messages on server" to ``yes``:*
+      .. hint:: *How Zammad behaves if you set "Keep messages on server" to* ``yes``
 
          Every email that Zammad fetched will automatically be marked as seen. This is also an indicator for Zammad if it 
          has to fetch a specific mail. If you mark an email as seen *before* Zammad fetched the mail, it will not be fetched!
